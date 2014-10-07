@@ -2,7 +2,7 @@ Django_project
 ==============
 example/
     manage.py
-    mysite/
+    example/
         __init__.py
         settings.py
         urls.py
