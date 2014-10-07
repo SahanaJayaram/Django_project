@@ -1,0 +1,9 @@
+Django_project
+==============
+example/
+    manage.py
+    mysite/
+        __init__.py
+        settings.py
+        urls.py
+        wsgi.py
